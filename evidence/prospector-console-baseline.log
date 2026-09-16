@@ -1,0 +1,1690 @@
+tate=RELEASED[0m
+[00:26:09.441,314] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:26:09.442,443] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:26:09.443,542] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:26:09.451,049] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:26:09.468,841] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:26:09.473,114] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:26:09.484,191] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:26:09.497,192] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:26:09.506,072] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:26:09.509,582] [00:30:30.741,912] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:30.747,375] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:30.761,779] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:30.769,897] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:30.774,963] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:30.776,611] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:30.796,783] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:30.800,292] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:30.802,124] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:30.813,537] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:30.817,382] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:30.823,699] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:30.828,643] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:30.835,510] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:30.839,996] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:30.840,881] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'MP++fz8wC+4C3BWRvTHgfJhj0'[0m
+[00:30:30.845,397] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:30.870,666] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:30.877,716] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:30.878,570] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:30.887,786] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:30.899,810] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:30.904,388] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:30.907,257] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:30.911,499] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:30.912,902] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:30.930,053] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:30.935,272] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:30.935,302] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:30.937,255] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:30.942,413] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:30.944,274] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:30.948,059] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:30.948,089] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:30.951,049] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:30.959,564] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:30.961,090] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:30.966,217] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:30.977,691] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:30.981,567] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:30.983,337] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:30.990,966] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:31.002,838] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.004,577] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.007,446] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.009,796] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.011,016] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.015,106] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:31.020,629] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.024,932] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.025,817] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:31.033,538] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.041,198] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:31.041,809] [0m<inf> zmk: BLE scan #426501 (RSSI: -73)[0m
+[00:30:31.055,450] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:31.058,990] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:31.059,020] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:31.062,957] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.063,720] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:31.070,312] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.072,998] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.077,941] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.087,707] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.088,592] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:31.112,274] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.117,706] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:31.118,591] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'MP++fz8wC+4C3BWRvTHgfJhj0'[0m
+[00:30:31.135,559] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.136,138] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.144,653] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.160,430] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.169,189] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.180,541] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.189,636] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.190,521] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:31.192,443] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:31.200,439] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:31.204,833] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.211,791] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.215,728] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.217,834] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.219,116] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:31.235,504] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 14 bytes[0m
+[00:30:31.237,945] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:31.241,729] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.245,391] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:31.253,509] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.273,559] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.276,336] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:31.279,693] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.288,970] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.292,114] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.312,316] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:31.312,347] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:31.315,338] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.319,549] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.323,394] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.328,613] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:31.337,860] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.339,874] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.345,153] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.351,806] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.355,010] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.356,842] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:31.356,872] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:31.358,154] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.368,896] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.369,995] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.374,908] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:31.376,434] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.394,531] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.410,644] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.425,689] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.428,283] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.436,279] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.438,110] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:31.438,140] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:31.446,228] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:31.446,258] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.452,087] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:31.452,850] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'sanag S6S Ultra'[0m
+[00:30:31.460,357] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.461,944] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.465,728] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.476,715] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.480,407] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.481,323] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:31.483,825] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.495,941] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.496,795] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:31.497,772] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.501,953] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.504,028] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:31.506,256] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:31.509,185] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.514,251] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:31.516,723] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.524,139] [0m<inf> zmk: BLE scan #426601 (RSSI: -72)[0m
+[00:30:31.524,169] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.524,780] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.540,100] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.543,121] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.550,323] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:31.560,058] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:31.560,089] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:31.566,467] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:31.571,380] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.575,592] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.577,301] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.578,613] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.584,838] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.588,897] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.589,752] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:31.593,078] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:31.595,062] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:31.597,381] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.598,236] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 010F[0m
+[00:30:31.605,743] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.628,479] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:31.628,509] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:31.630,401] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.632,904] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.638,519] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.641,632] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.667,541] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.673,126] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:31.674,011] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'MP++fz8wC+4C3BWRvTHgfJhj0'[0m
+[00:30:31.675,262] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.679,809] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.684,265] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.689,300] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.690,460] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.697,601] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 010F[0m
+[00:30:31.708,709] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.711,578] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.717,285] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.719,543] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 20 bytes[0m
+[00:30:31.727,142] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.727,783] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:31.729,736] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.739,410] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.743,560] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.753,845] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:31.763,427] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.764,953] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.765,899] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:31.768,585] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.778,900] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.782,928] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.783,447] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.788,085] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:31.792,968] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.793,884] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:31.802,001] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:31.804,595] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:31.818,206] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.819,000] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:31.820,892] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.821,746] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:31.827,758] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:31.829,895] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:31.831,695] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.838,500] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:31.846,679] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.849,334] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:31.849,365] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.850,646] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.859,436] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.868,286] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:31.870,513] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.871,154] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:31.882,934] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.887,145] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.892,852] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.896,697] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:31.908,172] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:31.912,811] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.928,070] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.928,649] [0m<inf> zmk: BLE scan #426701 (RSSI: -70)[0m
+[00:30:31.937,438] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:31.938,354] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'MP++fz8wC+4C3BWRvTHgfJhj0'[0m
+[00:30:31.939,270] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:31.941,955] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:31.944,549] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:31.947,814] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:31.947,845] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:31.952,606] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:31.957,763] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:31.990,600] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:31.996,734] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.005,401] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:32.006,317] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:32.017,974] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.023,040] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.034,057] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.036,499] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.058,166] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:32.064,483] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.064,941] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.083,312] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.086,273] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:32.086,303] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:32.095,977] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.096,740] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:32.097,839] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.100,982] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:32.101,715] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:32.102,874] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:32.104,217] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.104,766] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:32.120,391] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:32.127,136] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:32.128,356] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.139,770] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.144,561] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:32.166,229] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.176,849] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:32.176,879] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:32.180,816] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.201,599] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:32.201,629] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:32.207,061] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.211,090] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:32.212,341] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:32.213,226] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:32.232,757] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:32.233,520] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=11): 'EDIFIER BLE'[0m
+[00:30:32.234,069] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.236,053] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:32.237,182] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.241,546] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:32.244,873] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.264,587] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.265,808] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.274,353] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:32.278,167] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:32.280,853] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.283,874] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.285,888] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.286,468] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:32.309,204] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:32.309,814] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.314,788] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:32.316,009] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.338,989] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.344,055] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:32.348,815] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.351,318] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 20 bytes[0m
+[00:30:32.358,886] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.366,577] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.368,408] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.369,293] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:32.370,941] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:32.371,429] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:32.372,161] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'sanag S6S Ultra'[0m
+[00:30:32.373,229] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:32.383,453] [0m<inf> zmk: BLE scan #426801 (RSSI: -82)[0m
+[00:30:32.386,352] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.391,113] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:32.393,310] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.395,172] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.402,770] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:32.403,320] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:32.412,139] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:32.417,449] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.419,189] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.422,332] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:32.424,163] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:32.424,652] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:32.431,610] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:32.445,892] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 18 bytes[0m
+[00:30:32.447,692] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.450,469] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.457,824] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.464,843] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:32.472,381] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.485,443] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:32.486,328] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'MP++fz8wC+4C3BWRvTHgfJhj0'[0m
+[00:30:32.494,934] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.499,267] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.508,056] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:32.516,510] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:32.517,395] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.531,738] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:32.547,729] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:32.576,416] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:32.576,446] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:32.577,117] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:32.580,535] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.581,481] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:32.593,231] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.604,003] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.604,827] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:32.606,811] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.608,123] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:32.612,396] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.622,314] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:32.624,176] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.627,807] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.632,995] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.636,688] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:32.646,118] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.646,972] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:32.647,735] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.650,939] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:32.651,794] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:32.659,454] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.684,143] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.691,741] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:32.695,953] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:32.699,005] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:32.706,268] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:32.711,914] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:32.715,942] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.733,276] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.738,067] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.753,326] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.754,821] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.755,920] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.765,472] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:32.766,418] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'MP++fz8wC+4C3BWRvTHgfJhj0'[0m
+[00:30:32.790,283] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.806,915] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:32.828,765] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.829,864] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.831,420] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 010F[0m
+[00:30:32.833,953] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:32.833,984] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:32.836,883] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.838,073] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.842,254] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:32.849,121] [0m<inf> zmk: BLE scan #426901 (RSSI: -70)[0m
+[00:30:32.849,121] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.864,257] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.869,689] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:32.873,046] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:32.891,906] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:32.892,761] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:32.896,087] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.897,033] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:32.903,503] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.916,107] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:32.921,722] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:32.950,469] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.956,176] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:32.961,364] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:32.963,409] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:32.967,193] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:32.971,008] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:32.975,128] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:32.976,989] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:32.979,858] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.987,121] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:32.993,743] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:33.000,091] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.015,075] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.016,967] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.027,221] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:33.033,752] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.038,024] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.047,424] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.055,480] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.066,101] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.069,091] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.071,136] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.071,960] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.072,937] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.077,117] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.079,010] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:33.097,686] [0m<dbg> zmk: zmk_usb_get_conn_state: state: 3[0m
+[00:30:33.105,377] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.111,114] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.141,845] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.152,648] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.157,653] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.169,494] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.175,384] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.176,727] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.182,739] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.190,612] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.191,680] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.193,298] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:33.197,265] [0m<inf> display_screen: Display heartbeat #61 (screen=0)[0m
+[00:30:33.201,354] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.209,472] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:33.209,503] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:33.210,662] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.214,599] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.219,482] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.233,398] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.237,792] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:33.242,309] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:33.243,286] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:33.248,291] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.249,572] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.251,220] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.253,417] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.261,230] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:33.263,977] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:33.270,660] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:33.284,454] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.287,811] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.288,665] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:33.293,884] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:33.294,677] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'sanag S6S Ultra'[0m
+[00:30:33.296,783] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:33.297,271] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:33.299,194] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.303,863] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.310,272] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.321,014] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.327,423] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:33.333,923] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.338,806] [0m<inf> zmk: BLE scan #427001 (RSSI: -79)[0m
+[00:30:33.346,984] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:33.355,682] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.356,719] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.377,899] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.378,814] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:33.383,789] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:33.383,819] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:33.392,730] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:33.395,904] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.400,482] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.408,996] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.409,851] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:33.425,598] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.434,967] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.441,619] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.449,005] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.451,751] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.458,160] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:33.462,371] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.468,109] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.471,405] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.473,602] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:33.475,952] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.478,271] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.483,764] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:33.494,049] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.498,382] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.499,237] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:33.499,664] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.514,739] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:33.526,916] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.538,360] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.539,154] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 21 bytes[0m
+[00:30:33.560,882] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.561,737] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:33.571,105] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.578,918] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:33.583,618] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.585,815] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:33.585,845] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:33.586,517] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:33.587,921] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.597,076] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.598,266] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:33.599,060] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'sanag S6S Ultra'[0m
+[00:30:33.605,468] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.633,544] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:33.636,993] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.638,458] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.640,228] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.641,113] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'NGNMCjaAMSwyu8dWQ6zo3Z07g'[0m
+[00:30:33.649,414] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:33.654,144] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.656,127] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:33.661,437] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.669,860] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.675,292] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.680,572] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.689,788] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.691,101] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.707,489] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.714,752] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.716,003] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.726,623] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:33.729,583] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.731,445] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.746,795] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.747,833] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.757,110] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.761,444] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.762,237] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:33.767,822] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.769,287] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:33.789,031] [0m<inf> zmk: BLE scan #427101 (RSSI: -72)[0m
+[00:30:33.789,062] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:33.794,647] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.796,203] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.797,088] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:33.800,048] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:33.807,983] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.813,018] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.821,472] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.834,503] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:33.836,914] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:33.837,585] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.838,378] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:33.847,930] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:33.858,245] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.878,021] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.898,590] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.899,475] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:33.900,573] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.901,977] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.904,602] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:33.906,982] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:33.907,775] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'sanag S6S Ultra'[0m
+[00:30:33.913,635] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.929,077] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:33.929,931] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:33.930,755] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.943,450] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.951,873] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:33.952,484] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.960,968] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.966,827] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.980,712] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:33.983,520] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.986,999] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:33.997,314] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:33.997,924] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:33.998,413] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:33.999,176] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:34.000,244] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:34.006,042] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.006,896] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:34.014,770] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.017,517] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.022,277] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.028,350] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.049,285] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.055,267] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.060,363] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:34.063,934] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:34.066,619] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.069,030] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:34.087,005] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.100,402] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.104,797] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.122,436] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.126,525] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.135,253] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:34.139,862] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.146,331] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:34.151,062] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.155,700] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.158,081] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.162,414] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.190,246] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:34.191,223] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.206,481] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.207,977] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.208,679] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:34.208,709] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:34.210,235] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:34.213,684] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:34.225,372] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.247,039] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.248,443] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.253,723] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:34.259,033] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.261,932] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.268,371] [0m<inf> zmk: BLE scan #427201 (RSSI: -80)[0m
+[00:30:34.268,402] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.277,038] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.279,602] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:34.281,555] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.294,891] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.296,844] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.301,818] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.303,436] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:34.306,884] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.312,530] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:34.312,561] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.316,680] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.319,091] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:34.328,674] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.330,657] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.335,693] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:34.338,256] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.345,092] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.360,504] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:34.362,884] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.368,652] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:34.368,591] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.374,145] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 20 bytes[0m
+[00:30:34.385,192] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 010F[0m
+[00:30:34.387,664] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.398,620] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:34.401,794] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.406,860] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.417,663] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.422,027] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:34.425,384] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.427,185] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:34.441,650] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.448,577] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.454,650] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.455,505] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:34.470,367] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:34.477,752] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 20 bytes[0m
+[00:30:34.497,589] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.505,035] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:34.507,385] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.512,695] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:34.513,488] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'sanag S6S Ultra'[0m
+[00:30:34.514,831] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:34.516,876] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.517,486] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.532,989] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.533,843] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:34.535,827] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.540,802] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:34.544,830] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:34.550,201] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.554,656] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.561,401] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.577,148] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 20 bytes[0m
+[00:30:34.580,047] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:34.582,489] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.586,944] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:34.603,088] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.608,673] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.618,164] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.618,896] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:34.621,917] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.629,913] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.638,488] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.649,108] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.651,153] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.652,343] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.657,836] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.661,895] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:34.663,238] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:34.670,989] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.672,424] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:34.675,781] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:34.678,283] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:34.678,314] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:34.690,429] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.691,192] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:34.696,166] [0m<inf> zmk: BLE scan #427301 (RSSI: -70)[0m
+[00:30:34.696,166] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:34.703,643] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:34.703,674] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:34.714,508] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.729,309] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:34.731,140] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.734,497] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.737,670] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.755,401] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.766,967] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:34.774,108] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.777,404] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:34.777,954] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.791,595] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.795,227] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 010F[0m
+[00:30:34.816,772] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.837,341] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.840,362] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.840,820] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.854,125] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:34.861,083] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.877,716] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:34.881,378] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.883,514] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:34.884,674] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.885,528] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:34.888,946] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:34.895,050] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.899,230] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:34.900,634] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:34.902,954] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:34.905,944] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:34.918,029] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:34.919,281] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.924,255] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:34.924,285] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:34.938,598] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.940,277] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:34.942,260] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.944,580] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.946,594] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.950,347] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:34.965,698] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:34.969,665] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:34.982,452] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:34.983,703] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:34.987,060] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:34.991,607] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.001,464] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.011,535] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.012,329] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:35.023,651] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:35.024,627] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.037,017] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.049,194] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:35.055,572] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.058,410] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:35.061,462] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:35.067,260] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.077,209] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.078,063] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.098,175] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:35.101,806] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:35.104,675] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:35.106,323] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.114,654] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:35.114,685] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:35.117,431] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.122,161] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:35.122,924] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'sanag S6S Ultra'[0m
+[00:30:35.137,420] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:35.140,899] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.143,096] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.153,594] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:35.155,395] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.165,618] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.178,680] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:35.193,389] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:35.194,183] [0m<inf> zmk: BLE scan #427401 (RSSI: -86)[0m
+[00:30:35.194,183] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:35.209,686] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.211,975] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.217,468] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:35.218,933] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.224,151] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.228,027] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:35.246,185] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.251,464] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:35.259,613] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.264,129] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.273,681] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.276,916] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:35.277,740] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.279,846] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.299,926] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:35.323,394] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.330,047] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:35.330,078] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.338,653] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:35.346,801] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:35.348,175] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.351,745] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:35.354,187] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.363,067] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.363,952] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:35.364,990] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:35.378,204] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.388,519] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.389,465] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:35.390,594] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.396,820] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.402,374] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:35.403,472] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:35.407,745] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:35.409,454] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:35.414,031] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 010F[0m
+[00:30:35.422,271] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.423,645] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:35.428,924] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:35.434,387] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:35.435,394] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:35.446,685] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.449,554] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.455,993] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.463,623] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:35.464,996] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.466,491] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:35.469,726] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:35.474,456] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.482,330] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:35.483,703] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.491,851] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.495,452] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.499,786] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:35.509,277] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.514,831] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:35.515,716] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'MP++fz8wC+4C3BWRvTHgfJhj0'[0m
+[00:30:35.520,812] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.522,827] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.526,611] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:35.554,290] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.559,906] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.567,993] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:35.570,098] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:35.570,129] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:35.570,892] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.576,263] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:35.578,460] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:35.582,427] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.585,937] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.604,797] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.608,795] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.617,004] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:35.619,903] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.621,856] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:35.624,023] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.631,866] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.633,758] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:35.652,954] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.654,693] [0m<inf> zmk: BLE scan #427501 (RSSI: -77)[0m
+[00:30:35.654,724] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:35.656,127] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.665,313] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.671,752] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:35.676,300] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:35.691,833] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:35.691,864] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:35.697,875] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.699,951] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:35.712,615] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.721,588] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:35.723,999] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.725,677] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:35.727,783] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:35.731,689] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.733,367] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:35.734,191] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:35.735,687] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:35.735,717] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.747,344] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.763,244] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.767,517] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.771,820] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:35.772,430] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:35.773,651] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:35.775,390] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.785,552] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.787,414] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:35.804,077] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:35.813,598] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.814,422] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:35.815,734] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:35.815,765] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:35.819,122] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.829,254] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:35.830,718] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:35.830,749] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:35.831,756] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.837,524] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.840,270] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.840,820] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:35.842,285] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.843,475] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.880,645] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.912,658] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.915,252] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.916,137] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:35.929,992] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:35.931,640] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:35.939,270] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:35.946,868] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.949,432] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:35.949,462] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.953,582] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:35.959,808] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:35.961,547] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:35.964,904] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:35.972,534] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:35.980,468] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:35.986,816] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:35.994,262] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:35.997,039] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:36.000,457] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.001,434] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:36.003,997] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:36.005,737] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:36.020,477] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.022,094] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.025,482] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.027,099] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:36.038,299] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:36.046,630] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.047,515] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:36.058,380] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.064,361] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:36.064,392] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:36.065,795] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:36.068,969] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.086,578] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:36.089,294] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.091,979] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.099,731] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.131,011] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:36.157,196] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:36.158,508] [0m<inf> zmk: BLE scan #427601 (RSSI: -76)[0m
+[00:30:36.158,538] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:36.159,423] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:36.161,987] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.176,696] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:36.189,422] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.190,673] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.194,732] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.198,028] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.205,139] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.206,756] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.212,463] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.219,909] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:36.232,177] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:36.233,184] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:36.239,044] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.248,229] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:36.253,967] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.259,857] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.262,817] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.274,475] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:36.275,512] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:36.276,275] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=11): 'EDIFIER BLE'[0m
+[00:30:36.277,160] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 20 bytes[0m
+[00:30:36.282,958] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.284,851] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:36.287,353] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.290,679] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.292,938] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:36.292,968] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:36.303,741] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.332,427] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.334,899] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.335,906] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 010F[0m
+[00:30:36.342,224] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:36.361,328] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.364,166] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:36.368,194] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:36.368,225] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:36.371,124] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:36.372,009] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:36.376,983] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.389,068] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.391,571] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:36.392,242] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.394,866] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.396,240] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.407,348] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:36.414,062] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.426,879] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:36.426,910] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:36.428,192] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:36.431,976] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.441,894] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.442,810] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:36.447,784] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:36.450,469] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:36.461,975] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:36.463,684] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:36.469,146] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:36.470,062] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:36.476,196] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:36.513,519] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:36.519,226] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.520,446] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.524,505] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:36.529,937] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.536,285] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:36.550,354] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:36.554,931] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:36.554,931] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:36.558,319] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:36.562,011] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:36.566,741] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.574,554] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:36.580,017] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.580,627] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.585,327] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.588,409] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.604,309] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.605,041] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:36.609,466] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.614,898] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:36.617,645] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.636,810] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.637,451] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.657,775] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.658,386] [0m<inf> zmk: BLE scan #427701 (RSSI: -65)[0m
+[00:30:36.659,942] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.675,170] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.676,940] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:36.676,971] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:36.684,173] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:36.684,204] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:36.696,838] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.702,636] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.710,449] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.711,822] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.725,433] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:36.732,421] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:36.736,938] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.740,844] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.748,748] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:36.758,819] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.773,071] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.776,947] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.783,630] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.792,266] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:36.797,058] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:36.803,466] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:36.808,715] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.816,009] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:36.816,040] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:36.822,204] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:36.828,552] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:36.834,197] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:36.839,019] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.839,874] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.843,078] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.882,751] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:36.891,326] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.896,850] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:36.900,451] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.905,029] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:36.918,731] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:36.921,142] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.932,128] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:36.932,159] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:36.934,661] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 010F[0m
+[00:30:36.939,117] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.945,800] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:36.950,653] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.953,826] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.956,481] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:36.960,998] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:36.969,055] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:36.971,008] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:36.975,189] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:36.980,041] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:36.990,692] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:36.997,344] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:37.009,307] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.013,366] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.033,721] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.037,719] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.045,379] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.053,131] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.054,168] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:37.055,633] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.067,718] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.081,726] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.082,244] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:37.088,867] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:37.101,135] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:37.109,191] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.112,213] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 8 bytes[0m
+[00:30:37.116,333] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.125,732] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.134,582] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:37.137,451] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.140,106] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.142,425] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.149,658] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.158,691] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.169,647] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:37.181,610] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:37.182,952] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.204,681] [0m<inf> zmk: BLE scan #427801 (RSSI: -87)[0m
+[00:30:37.204,711] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:37.209,167] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:37.217,926] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.232,147] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:37.254,425] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.263,000] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.273,742] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.287,628] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.294,372] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:37.297,637] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.301,483] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:37.305,999] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:37.307,128] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:37.307,159] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:37.314,819] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:37.335,815] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.348,083] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.349,212] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.360,290] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:37.361,236] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.371,490] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.393,707] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:37.395,416] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.399,475] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:37.418,548] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:37.422,363] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.428,985] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.435,272] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:37.435,302] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:37.452,178] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.458,099] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.459,991] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.465,820] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.471,313] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.480,834] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.481,201] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.482,055] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:37.491,577] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:37.491,699] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:37.493,957] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:37.502,044] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:37.505,096] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.513,793] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.516,998] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.520,385] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:37.526,916] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.531,585] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.538,299] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.551,940] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.557,220] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.561,096] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:37.577,453] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.577,880] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.580,535] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:37.590,728] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:37.592,132] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:37.610,565] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.622,253] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:37.623,565] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:37.624,481] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:37.638,885] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:37.650,054] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.656,188] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.659,088] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:37.660,095] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:37.666,595] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:37.678,100] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.686,279] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.698,822] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.709,381] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.718,780] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:37.719,665] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'MP++fz8wC+4C3BWRvTHgfJhj0'[0m
+[00:30:37.721,069] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.724,151] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:37.742,767] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.743,499] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.744,934] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.755,187] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.774,688] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.775,146] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:37.780,395] [0m<inf> zmk: BLE scan #427901 (RSSI: -90)[0m
+[00:30:37.780,426] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.817,199] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:37.817,230] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:37.825,073] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.827,972] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:37.829,895] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.835,540] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:37.840,850] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:37.849,182] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.852,935] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:37.855,499] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:37.855,529] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:37.861,938] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:37.869,689] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.876,220] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.881,561] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:37.902,038] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.910,430] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:37.933,319] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.964,965] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:37.966,339] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:37.974,700] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:37.982,482] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:37.986,236] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:37.989,318] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:37.999,603] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.011,993] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:38.020,416] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:38.024,353] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.026,092] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.031,494] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.040,710] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.044,525] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.050,201] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.067,840] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 010F[0m
+[00:30:38.069,702] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:38.069,732] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:38.071,411] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.071,929] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.074,707] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.085,632] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.087,860] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:38.093,475] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:38.102,569] [0m<dbg> zmk: zmk_usb_get_conn_state: state: 3[0m
+[00:30:38.105,316] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.106,384] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:38.114,166] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.117,126] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:38.122,406] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.123,504] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.130,767] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:38.136,962] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.146,667] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:38.150,756] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.169,097] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 010F[0m
+[00:30:38.179,260] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:38.180,694] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.204,650] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.211,242] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.225,708] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.229,339] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:38.234,039] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.244,689] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.248,596] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:38.268,188] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:38.269,073] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'MP++fz8wC+4C3BWRvTHgfJhj0'[0m
+[00:30:38.274,291] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.280,914] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.291,259] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:38.296,234] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.305,633] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.317,230] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:38.317,260] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:38.322,784] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:38.323,669] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:38.332,092] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=11): 'Keychron M6'[0m
+[00:30:38.348,266] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=11): 'Keychron M6'[0m
+[00:30:38.349,761] [0m<inf> zmk: BLE scan #428001 (RSSI: -80)[0m
+[00:30:38.349,792] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:38.354,339] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:38.358,642] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:38.369,537] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.371,643] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=11): 'Keychron M6'[0m
+[00:30:38.384,063] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.388,092] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.389,648] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.392,456] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:38.416,473] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.419,647] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.421,722] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.438,446] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.453,063] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.454,833] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:38.455,932] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.462,432] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.479,217] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:38.481,384] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:38.488,098] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.495,086] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.496,978] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.506,256] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.508,789] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.524,505] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:38.530,700] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.532,501] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:38.533,294] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.550,506] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.553,344] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.559,509] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.566,131] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:38.567,871] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:38.567,901] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:38.575,347] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.577,178] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.578,704] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:38.603,179] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.607,727] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.609,283] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.614,349] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.634,460] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.637,756] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:38.639,373] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.652,709] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:38.664,093] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 010F[0m
+[00:30:38.665,893] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.681,060] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.681,915] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:38.687,988] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:38.705,871] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:38.711,639] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.712,158] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:38.716,827] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.718,109] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.725,189] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.730,621] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:38.738,586] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 20 bytes[0m
+[00:30:38.739,746] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.742,004] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.745,941] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:38.753,082] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:38.759,246] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:38.763,458] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.772,277] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.773,529] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:38.788,299] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.792,877] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:38.795,593] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.796,630] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.802,947] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.807,403] [0m<inf> zmk: BLE scan #428101 (RSSI: -81)[0m
+[00:30:38.807,434] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:38.809,692] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:38.810,577] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'MP++fz8wC+4C3BWRvTHgfJhj0'[0m
+[00:30:38.811,920] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 14 bytes[0m
+[00:30:38.819,366] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.821,289] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.825,012] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.835,845] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.842,193] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.845,214] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 20 bytes[0m
+[00:30:38.846,466] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.848,937] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:38.863,677] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.867,034] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.868,804] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:38.876,617] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 010F[0m
+[00:30:38.884,155] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:38.894,104] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:38.915,100] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.924,072] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.928,131] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:38.930,450] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.939,697] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:38.939,727] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:38.941,711] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:38.950,439] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:38.958,648] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:38.980,102] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:38.983,673] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:38.990,661] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.002,319] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:39.008,514] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:39.011,413] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=11): 'Keychron M6'[0m
+[00:30:39.024,291] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.027,984] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:39.033,294] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=11): 'Keychron M6'[0m
+[00:30:39.037,414] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.041,778] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.042,633] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:39.048,828] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.053,009] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:39.054,412] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:39.084,899] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.086,608] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:39.100,372] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:39.120,635] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.132,141] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.135,009] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.138,153] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.145,141] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=11): 'Keychron M6'[0m
+[00:30:39.154,510] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.171,600] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:39.172,454] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:39.181,945] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.188,171] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.204,162] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:39.208,221] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:39.208,740] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.209,197] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.217,773] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:39.224,334] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.227,661] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:39.235,015] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.240,539] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.264,526] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:39.267,089] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.268,737] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:39.299,926] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:39.312,103] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:39.324,707] [0m<inf> zmk: BLE scan #428201 (RSSI: -65)[0m
+[00:30:39.324,737] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.327,178] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.332,641] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:39.332,763] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:39.341,217] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.342,529] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.351,593] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:39.352,783] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.353,942] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.355,804] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:39.356,719] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'MP++fz8wC+4C3BWRvTHgfJhj0'[0m
+[00:30:39.369,628] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.380,279] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:39.381,134] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:39.390,411] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.394,378] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.399,688] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.401,611] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.404,022] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:39.404,052] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:39.414,916] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=11): 'Keychron M6'[0m
+[00:30:39.433,410] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:39.433,441] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:39.445,037] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.461,242] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:39.467,437] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:39.471,618] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:39.485,992] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.486,419] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:39.506,988] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:39.513,732] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:39.518,493] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:39.528,961] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:39.532,165] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.536,682] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:39.541,442] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.546,020] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:39.548,217] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 21 bytes[0m
+[00:30:39.550,659] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.559,387] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.559,936] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.561,584] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:39.561,614] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:39.567,169] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.573,547] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.573,669] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:39.576,629] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:39.578,186] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:39.588,470] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:39.591,522] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:39.597,137] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.598,876] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:39.602,111] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:39.608,367] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.609,558] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.617,919] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.626,129] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:39.642,761] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.645,629] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.665,527] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.673,339] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.682,281] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:39.682,312] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:39.682,983] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:39.697,509] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:39.701,354] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.718,902] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.733,612] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:39.734,497] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:39.741,455] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.750,000] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.755,584] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.762,176] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.767,059] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:39.771,240] [0m<inf> zmk: BLE scan #428301 (RSSI: -86)[0m
+[00:30:39.771,270] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.774,932] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:39.776,397] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.778,808] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 11 bytes[0m
+[00:30:39.792,633] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:39.793,548] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.801,269] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:39.812,133] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:39.814,636] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.820,495] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.833,496] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:39.843,963] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:39.845,428] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.860,656] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.869,018] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:39.871,429] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:39.872,863] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.875,488] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.882,995] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:39.893,524] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.894,287] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:39.895,965] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.911,590] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:39.915,313] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.925,872] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.927,703] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.932,800] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:39.932,830] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:39.935,394] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:39.942,993] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:39.949,157] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:39.960,357] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:39.962,402] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.966,400] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:39.968,170] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.969,329] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.970,489] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:39.974,121] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:39.978,668] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:39.983,215] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:39.994,232] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:39.995,086] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:39.998,535] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.005,310] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.006,195] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:40.007,293] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 20 bytes[0m
+[00:30:40.015,045] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.016,235] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:40.035,552] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.039,184] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.040,649] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.041,412] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:40.043,121] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:40.062,011] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:40.062,072] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.064,819] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.074,462] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.075,927] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:40.078,460] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.090,942] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:40.094,024] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:40.097,930] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:40.107,299] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.110,900] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:40.123,504] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.133,544] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:40.134,185] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:40.139,801] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.140,716] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:40.146,026] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.154,541] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:40.154,541] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.180,053] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.181,457] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.183,319] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:40.183,349] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:40.183,990] [0m<inf> zmk: BLE scan #428401 (RSSI: -81)[0m
+[00:30:40.184,051] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:40.200,103] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:40.248,840] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=15): 'CHR98E401D1227F'[0m
+[00:30:40.248,870] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 5 bytes[0m
+[00:30:40.251,190] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.255,523] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:40.256,561] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:40.265,502] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.266,265] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:40.271,179] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.281,677] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:40.283,782] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.287,963] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:40.291,900] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.294,738] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:40.302,764] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:40.307,769] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:40.307,800] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:40.310,302] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:40.314,941] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.321,411] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.324,615] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:40.328,186] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:40.329,803] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 20 bytes[0m
+[00:30:40.338,897] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.341,644] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 8 bytes[0m
+[00:30:40.344,024] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:40.345,367] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.350,646] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.358,123] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:40.361,022] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:40.385,375] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:40.388,183] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.389,007] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.391,265] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.401,428] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.402,221] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:40.418,457] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.429,809] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 20 bytes[0m
+[00:30:40.435,852] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:40.435,882] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:40.438,446] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.440,673] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:40.445,098] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:40.455,657] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.459,777] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 6 bytes[0m
+[00:30:40.472,930] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:40.491,699] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.493,133] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.494,476] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.499,511] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:40.500,915] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:40.512,847] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:40.514,801] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.531,036] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.533,477] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:40.544,769] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.548,126] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.550,201] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.559,082] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=5): 'midea'[0m
+[00:30:40.559,112] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 17 bytes[0m
+[00:30:40.559,783] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:40.566,314] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.586,059] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.601,837] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.606,719] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.611,633] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.614,288] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.614,562] [0m<dbg> zmk: lvgl_input_read: LVGL read: raw(70,184) -> logical(184,169) state=RELEASED[0m
+[00:30:40.615,081] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:40.618,377] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=11): 'Keychron M6'[0m
+[00:30:40.621,765] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:40.625,518] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:40.631,927] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 15 bytes[0m
+[00:30:40.633,361] [0m<inf> zmk: BLE scan #428501 (RSSI: -86)[0m
+[00:30:40.633,392] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.641,662] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.643,646] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.650,390] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:40.652,069] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.654,571] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.656,951] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:40.661,712] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.665,710] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 14 bytes[0m
+[00:30:40.674,682] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.676,452] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.677,490] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.678,283] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 19 bytes[0m
+[00:30:40.680,725] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 9 bytes[0m
+[00:30:40.685,028] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:40.698,883] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:40.699,554] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:40.700,347] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.701,202] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=18): 'S73b2c2801a3353a2C'[0m
+[00:30:40.712,738] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.715,240] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.717,834] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:40.721,313] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:40.722,595] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.726,531] [0m<dbg> zmk: scan_callback: Non-Prospector device: 8F03 1601[0m
+[00:30:40.732,208] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.746,551] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.747,894] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:40.751,403] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.760,406] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.761,322] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=25): 'HUAWEI WATCH GT Cyber-04C'[0m
+[00:30:40.771,087] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.783,630] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.794,342] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.800,445] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:40.807,525] [0m<dbg> zmk: scan_callback: Non-Prospector device: 4C00 0719[0m
+[00:30:40.808,837] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.809,509] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 10 bytes[0m
+[00:30:40.810,333] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=11): 'EDIFIER BLE'[0m
+[00:30:40.814,819] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.832,336] [0m<dbg> zmk: scan_callback: Non-Prospector device: 0600 0109[0m
+[00:30:40.834,442] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.837,097] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=11): 'Keychron M6'[0m
+[00:30:40.843,353] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:40.855,316] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.856,170] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=22): 'HUAWEI WATCH 4 Pro-43D'[0m
+[00:30:40.861,968] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 25 bytes[0m
+[00:30:40.867,309] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 12 bytes[0m
+[00:30:40.869,110] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.872,558] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 22 bytes[0m
+[00:30:40.875,213] [0m<dbg> zmk: scan_callback: ADV packet - COMPLETE name (len=16): 'Govee_H6631_5A37'[0m
+[00:30:40.875,244] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 7 bytes[0m
+[00:30:40.881,622] [0m<dbg> zmk: scan_callback: Manufacturer data too short: 13 bytes[0m
+[00:30:40.885,833] [0m<dbg> zmk: scan_callback: Manufacturer da
+--- 156124 bytes from /dev/cu.usbmodem1114404 ---

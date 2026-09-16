@@ -1,0 +1,10 @@
+# Images of the keyboard's own firmware — not this work, and not distributed here.
+#
+# `keychron_k10_max_ansi_rgb_STOCK.bin` is the vendor stock image and
+# `backup-current-firmware.bin` is the dump taken from this keyboard before anything
+# was flashed (the same image as the factory dump in the Prospector repository). Both
+# are Keychron's. Their SHA-256 are recorded in README.md so an image obtained from
+# the vendor — or dumped from your own board — can be checked against the ones this
+# work used. They stay in the working tree so a flash can still be undone.
+build/keychron_k10_max_ansi_rgb_STOCK.bin
+evidence/backup-current-firmware.bin
