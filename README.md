@@ -1,3 +1,7 @@
+<!-- SVENKUNKKA-README-NAV:BEGIN -->
+[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+<!-- SVENKUNKKA-README-NAV:END -->
+
 # K10 Max → Prospector: direct status, without a PC
 
 Work product for getting a **Keychron K10 Max** to drive an assembled
@@ -151,3 +155,30 @@ before flashing — can be checked against the ones this work used:
 build this work produced, in `.bin`, `.elf` and `.hex`. The two above stay in the
 working tree on the machine that did the work, so flashing can still be undone; they
 are simply not published.
+
+
+---
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+记录 Keychron K10 Max 直连 Prospector 状态屏的协议研究、QMK 状态编码补丁、构建产物与验证证据，目标是不借助电脑转发状态。
+
+**使用入口：** 先阅读 [docs/BLOCKER.md](docs/BLOCKER.md) 与 [docs/PROTOCOL.md](docs/PROTOCOL.md)，构建与恢复步骤见 [docs/BUILD.md](docs/BUILD.md)，验证边界见 [docs/VERIFICATION.md](docs/VERIFICATION.md)。
+
+**范围说明：** 按仓库记录，原装 LKBT51 无线模块阻止目标仅靠 QMK 固件实现；构建不等于已刷写或实机成功，厂商原始固件与设备备份未公开分发。
+
+<a id="project-overview-en"></a>
+## English project overview
+
+Documents protocol research, QMK status-encoding patches, builds, and evidence for connecting a Keychron K10 Max directly to a Prospector display without PC forwarding.
+
+**Getting started:** Start with [docs/BLOCKER.md](docs/BLOCKER.md) and [docs/PROTOCOL.md](docs/PROTOCOL.md); see [docs/BUILD.md](docs/BUILD.md) for building and recovery and [docs/VERIFICATION.md](docs/VERIFICATION.md) for evidence boundaries.
+
+**Scope:** The repository records the stock LKBT51 radio as blocking implementation through QMK alone. Built does not mean flashed or physically working; vendor stock firmware and device backups are not publicly distributed.
+
+**仓库维护者 / Repository maintainer:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->
